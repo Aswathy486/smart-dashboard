@@ -1,4 +1,3 @@
-# smart-dashboard
 # Smart Personal Dashboard
 
 A simple personal dashboard built using HTML and CSS as part of my Full Stack + AI learning journey.
