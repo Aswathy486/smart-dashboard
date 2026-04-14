@@ -51,8 +51,7 @@ A responsive web application built using HTML, CSS, and JavaScript that helps us
 ---
 
 ## 🔗 Live Demo
-
-(Add GitHub Pages link here)
+https://aswathy486.github.io/personal-productivity-dashboard/
 
 ---
 
