@@ -135,7 +135,7 @@ async function getWeather() {
         return;
     }
 
-    const apiKey = "YOUR_API_KEY";
+    const apiKey = "5d4495ade76f0e1bcf40a77dce3498d1"; // Replace with your OpenWeatherMap API key
     result.textContent = "Loading...";
 
     try {
